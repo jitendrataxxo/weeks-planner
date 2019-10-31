@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `host on fireebase`
+### `host on firebase`
 
 https://create-react-app.dev/docs/deployment
 
